@@ -43,7 +43,7 @@ ALT_FILE_NAME = 'title'
 
 # Define your domain(s) in the list below,
 # e.g., DOMAIN_LIST = ['domain.com'] DOMAIN_LIST = ['domain1.com', 'domain2.com']
-DOMAIN_LIST = []
+DOMAIN_LIST = ['compass-health.ai']
 
 # Provide a list of regular expressions that define your domains(s),
 # e.g., DOMAIN_EXPRESSIONS = [re.compile(r'@domain\.com$')] DOMAIN_EXPRESSIONS = [re.compile(r'@.*domain1\.com$'0, re.compile(r'@.*domain2\.com$')]

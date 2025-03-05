@@ -41,7 +41,7 @@ FILE_NAME = 'name'
 ALT_FILE_NAME = 'title'
 
 # Substitute your domain(s) in the list below, e.g., DOMAIN_LIST = ['domain.com',] DOMAIN_LIST = ['domain1.com', 'domain2.com',]
-DOMAIN_LIST = ['domain.com']
+DOMAIN_LIST = ['compass-health.ai']
 # EXCLUSIVE_DOMAINS = True: You're interested only in domains not in DOMAIN_LIST which would typically be your internal domains
 # EXCLUSIVE_DOMAINS = False: You're interested only in domains in DOMAIN_LIST which would typically be external domains
 # Indicate whether the list is exclusive or inclusive
